@@ -1,0 +1,105 @@
+
+
+
+/*HEADING--STYLES*/
+
+.head4 {
+	color: #950000;
+	font-size: 14px;
+	font-family: 'Libre Baskerville', serif;
+	text-decoration: underline;
+	font-weight: bold;
+
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+.subhead1 {
+	font-family: 'Roboto Slab', serif;
+	font-size: 14px;
+	font-weight: bold;
+
+}
+
+/*PARA--STYLES*/
+
+.para {
+	font-size: 12px;
+	font-family: 'Roboto Slab', serif;
+	margin-top: 6px;
+	margin-bottom: 6px;
+}
+
+.namehead {
+	color: #b50000;
+	font-family: 'Libre Baskerville', serif;
+	font-weight: bold;
+	margin-bottom: 3px;
+}
+
+.parahead {
+	font-family: 'Libre Baskerville', serif;
+	font-weight: bold;
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+
+#contact {
+	color: #ac0000;
+	position: relative;
+	left: 3px;
+}
+
+/*---MARGINS---*/
+
+.sub_margin {
+	margin: 6px;
+}
+
+.prim_margin {
+margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+/*DIV---POSITION*/
+
+.mainflex {
+	display: ;
+	flex-direction: column;
+	justify-content: right;
+}
+.headflex {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	position: relative;
+	text-align: center;
+	margin-top: 3px;
+	margin-bottom: 3px; 
+}
+
+.position {
+	margin-right: auto;
+	margin-left: auto;
+	width: 90%;
+}
+
+/*---TABLE---*/
+
+.table_para {
+	font-size: 14px;
+	font-family: 'Roboto Slab', serif;
+}
+table, td, th {
+	border: 2px solid black;
+	border-collapse: collapse;
+	padding: 8px;
+}
+
+/*---H RULER---*/
+
+.hr_style {
+	
+	border: 1px double black;
+	
+}
